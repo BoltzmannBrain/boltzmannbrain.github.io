@@ -15,9 +15,6 @@ What else am I up to? I’m a runner, a yogi, a traveler, a concertgoer. My book
 <br><br>
 Interested in my CV? Shoot me an email. You can also check out some papers on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Cbea-9AAAAAJ&view_op=list_works&sortby=pubdate) and [arXiv profiles](https://arxiv.org/find/cs/1/au:+Lavin_A/0/1/0/all/0/1).
  -->
-
-Building something new...
-<br>
 “In programming, the hard part isn’t solving problems, but deciding what problems to solve.” - Paul Graham
 <br><br>
 Interested in my CV? Shoot me an email. You can also check out some papers on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Cbea-9AAAAAJ&view_op=list_works&sortby=pubdate) and [arXiv profiles](https://arxiv.org/find/cs/1/au:+Lavin_A/0/1/0/all/0/1).
